@@ -1,0 +1,14 @@
+E:\all work\coding\C#\CalculateBMIConsoleApp\bin\Debug\net10.0\CalculateBMIConsoleApp.exe
+E:\all work\coding\C#\CalculateBMIConsoleApp\bin\Debug\net10.0\CalculateBMIConsoleApp.deps.json
+E:\all work\coding\C#\CalculateBMIConsoleApp\bin\Debug\net10.0\CalculateBMIConsoleApp.runtimeconfig.json
+E:\all work\coding\C#\CalculateBMIConsoleApp\bin\Debug\net10.0\CalculateBMIConsoleApp.dll
+E:\all work\coding\C#\CalculateBMIConsoleApp\bin\Debug\net10.0\CalculateBMIConsoleApp.pdb
+E:\all work\coding\C#\CalculateBMIConsoleApp\obj\Debug\net10.0\CalculateBMIConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\all work\coding\C#\CalculateBMIConsoleApp\obj\Debug\net10.0\CalculateBMIConsoleApp.AssemblyInfoInputs.cache
+E:\all work\coding\C#\CalculateBMIConsoleApp\obj\Debug\net10.0\CalculateBMIConsoleApp.AssemblyInfo.cs
+E:\all work\coding\C#\CalculateBMIConsoleApp\obj\Debug\net10.0\CalculateBMIConsoleApp.csproj.CoreCompileInputs.cache
+E:\all work\coding\C#\CalculateBMIConsoleApp\obj\Debug\net10.0\CalculateBMIConsoleApp.dll
+E:\all work\coding\C#\CalculateBMIConsoleApp\obj\Debug\net10.0\refint\CalculateBMIConsoleApp.dll
+E:\all work\coding\C#\CalculateBMIConsoleApp\obj\Debug\net10.0\CalculateBMIConsoleApp.pdb
+E:\all work\coding\C#\CalculateBMIConsoleApp\obj\Debug\net10.0\CalculateBMIConsoleApp.genruntimeconfig.cache
+E:\all work\coding\C#\CalculateBMIConsoleApp\obj\Debug\net10.0\ref\CalculateBMIConsoleApp.dll
